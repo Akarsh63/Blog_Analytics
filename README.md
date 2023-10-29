@@ -23,5 +23,5 @@ A blog analytics and search tool developed using Express.js and Lodash. This mid
 
 ### Blog Search
 
-- A route at `/api/blog-search/?query={query}` gives filtered blogs by filtering the blogs based on the provided query string.
+- A route at `/api/blog-search/?query={query}` gives filtered blogs by filtering the blogs based on the provided query string like /api/blog-search/?query=privacy .
 
